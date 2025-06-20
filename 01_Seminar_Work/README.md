@@ -1,0 +1,4 @@
+- **01_Seminar_Work**  
+  - 오리엔테이션
+  - 개발 환경 세팅 (Anaconda, Jupyter)
+  - Git 사용법

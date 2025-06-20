@@ -1,0 +1,3 @@
+- **03_AI_Service**  
+  - Streamlit 웹앱 구현  
+  - Whisper 음성 인식 실습  

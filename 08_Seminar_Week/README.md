@@ -1,0 +1,3 @@
+- **08_Seminar_Week**  
+  - 발표 리허설  
+  - Notion 포트폴리오 정리  
